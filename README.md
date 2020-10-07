@@ -1,5 +1,5 @@
 # ProjetoWeb
-
+# autores Silas Henrique Da Silva - GU3003469 e Vinicius Santos GU3003604
 # Foi realizado 4 CRUDs das quatro tabelas que realizam a gerencia da loja virtual de artigos esportivos da NBA
 
 # Ao realizar o login com um usuario administrador é possivel realizar a gêrencia dos produtos, usuarios, categorias e estoque.
